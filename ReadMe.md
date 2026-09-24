@@ -53,6 +53,7 @@ The following models are fully supported:
 | Pool URL                | Port  | Web URL                                                   | Status                                                       |
 | ----------------------- | ----- | --------------------------------------------------------- | ------------------------------------------------------------ |
 | public-pool.io          | 21496 | [https://web.public-pool.io](https://web.public-pool.io/) | Open Source Solo Bitcoin Mining Pool supporting open source miners |
+| stratum.btcpowlab-pool.com | 3333  | [https://btcpowlab-pool.com](https://btcpowlab-pool.com/) | Hybrid Solo Bitcoin pool for home miners, minimum share difficulty 1 |
 | pool.nerdminers.org     | 3333  | [https://nerdminers.org](https://nerdminers.org/)         | The official Nerdminer pool site - Mantained by @golden-guy  |
 | pool.nerdminer.io       | 3333  | [https://nerdminer.io](https://nerdminer.io/)             | Mantained by CHMEX                                           |
 | pool.pyblock.xyz        | 3333  | https://pool.pyblock.xyz/                                 | Mantained by curly60e                                        |
